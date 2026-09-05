@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="wa_teal">#00A884</color>
+    <color name="wa_teal_dark">#008069</color>
+    <color name="wa_background">#0B141A</color>
+    <color name="wa_panel">#111B21</color>
+    <color name="wa_incoming">#202C33</color>
+    <color name="wa_outgoing">#005C4B</color>
+    <color name="wa_text_primary">#E9EDEF</color>
+    <color name="wa_text_secondary">#8696A0</color>
+    <color name="wa_blue_ticks">#53BDEB</color>
+    <color name="wa_danger">#EA4335</color>
+</resources>

@@ -1,0 +1,6 @@
+{
+  "name": "Gerda Chat",
+  "description": "WhatsApp-style AI chat and call simulator with Gerda B. and custom personas powered by Gemini",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
